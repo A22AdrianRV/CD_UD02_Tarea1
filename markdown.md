@@ -50,11 +50,14 @@ Lista no numerada
 
 ## Párrafos y saltos de línea
 
-Insertar un 
+  Párrafo 1
+  Linea 1  
+  Párrafo 2
+  
 
 ### Insertar imagenes
 
-Insertar una imagen 
+![Insertar una imagen](torreeiffel.jpg)
 
 ### Insertar enlaces
 
